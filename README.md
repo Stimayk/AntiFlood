@@ -1,1 +1,2 @@
 # AntiFlood
+**Chat spam protection**
